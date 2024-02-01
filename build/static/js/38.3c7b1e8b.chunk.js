@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[38],{1391:function(e,t,a){"use strict";a.r(t);var r=a(4),n=a.n(r);class c extends r.Component{render(){const{children:e,...t}=this.props;return n.a.createElement(n.a.Fragment,null,n.a.createElement("span",null,n.a.createElement("a",{href:"https://enott.ch"},"Fiji Web Portal")," \xa9 ",(new Date).getFullYear(),"."))}}c.defaultProps={},t.default=c}}]);
+//# sourceMappingURL=38.3c7b1e8b.chunk.js.map

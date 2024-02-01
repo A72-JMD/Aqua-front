@@ -1,0 +1,2 @@
+.LoaderButton .spinning.glyphicon{margin-right:7px;top:2px;animation:spin 1s linear infinite}@keyframes spin{0%{transform:scale(1) rotate(0deg)}to{transform:scale(1) rotate(1turn)}}.alert-shown{opacity:1;transition:all .25s linear}.alert-hidden{opacity:0;transition:all .25s linear}
+/*# sourceMappingURL=10.c438e12f.chunk.css.map */

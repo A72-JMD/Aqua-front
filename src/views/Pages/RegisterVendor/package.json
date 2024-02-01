@@ -1,0 +1,6 @@
+{
+  "name": "RegisterVendor",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RegisterVendor.js"
+}
